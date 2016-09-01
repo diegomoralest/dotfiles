@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/dmoralest/source/xtiva-universe/scripts'
+let g:netrw_dirhist_2='/home/dmoralest/source/xtiva-universe/repo/packages/X/xdiscovery/0'
+let g:netrw_dirhist_3='/home/dmoralest/source/query/docker'
+let g:netrw_dirhist_4='/home/dmoralest/source/xdiscovery/.git'
+let g:netrw_dirhist_5='/home/dmoralest/source/scripts/Docker/xtiva-toolbox-fc23'
+let g:netrw_dirhist_6='/home/dmoralest/.vim'
+let g:netrw_dirhist_7='/home/dmoralest/source/xproxy/.git'

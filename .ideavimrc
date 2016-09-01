@@ -1,0 +1,7 @@
+map ñ <PageDown>
+map Ñ <PageUp>
+imap jj <Esc>
+nnoremap <M-j> <M-Left>
+set tabstop=2
+set shiftwidth=2
+set expandtab
