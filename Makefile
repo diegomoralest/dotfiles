@@ -7,4 +7,4 @@ install:
 	find . -type d \( ! -ipath './.*' ! -iname '.*' ! -ipath './out/*' ! -iname 'out' \) -exec cp -r {} $(DESTDIR)$(sysconfdir)/dotfiles \;
 
 clean:
-	[[ -f out ]] && rm -r out || :
+	[[ -d out ]] && rm -r out || :
